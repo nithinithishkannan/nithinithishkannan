@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Nithishkannan
+- 👋 Hi, I’m NithishKannan
 - 🫡 A passionata python developer from India
 - 👀 I’m interested in Coading language python  and also intrested in Team management.
-- 🌱 I’m currently learning Data Science with Python it includes Machine learning,Deep learing and Artificial Intelligence in Besant Technologies.
-- 💞️ I’m looking to collaborate on Python projects 
+- 🌱 Trainee at Besant Technologies Velachery.
+- 💞️ I’m looking to collaborate on Python projects.
+- 🛠️ working experince in some AI features like Natural Language Processing, Image Generation,Text to Speech and Speech to text.
+- 📱 phone no : 8754735660  
 - 📫 How to reach me nithishkannan12nk@gmail.com 
+- 🛠️ practical working knowlede in POwer BI tool.
 
 <!---
 nithinithishkannan/nithinithishkannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
